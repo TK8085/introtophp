@@ -11,6 +11,4 @@ $student = [
 ];
 
 echo($first_name);
-print_r($first_name);
-echo($student);
 print_r($student);
